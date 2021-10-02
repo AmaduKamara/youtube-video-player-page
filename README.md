@@ -2,6 +2,7 @@
 ---
 title: The Odin's Project of the YouTube's Video Player page from the Pre-Enrollment Bootcamp for Microverse course start-up
 author: Amadu Kamara (Amkam)
+gitHub: AmaduKamara(Amkam)
 ---
 
 # The Odin's YouTube Video Player Page
