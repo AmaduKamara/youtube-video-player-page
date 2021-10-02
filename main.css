@@ -317,7 +317,10 @@ nav {
   display: flex;
 }
 
-.video-card p,
-.video-card a {
+.video-card p {
   font-size: 0.5rem;
+}
+
+.video-card a {
+  font-size: 0.4rem;
 }
