@@ -277,18 +277,18 @@ nav {
   font-size: 0.6rem;
 }
 
-.cmt-div input:focus{
+.cmt-div input:focus {
   outline: none;
   border-bottom: 1px solid #161616;
 }
 
-.comment-btns{
+.comment-btns {
   display: flex;
   justify-content: end;
   margin-right: 20px;
 }
 
-.cancel{
+.cancel {
   background-color: #00000000;
   border: none;
   color: #727272;
@@ -296,11 +296,11 @@ nav {
   margin-right: 10px;
 }
 
-.cancel:focus{
+.cancel:focus {
   border: none;
 }
 
-.comment-btn{
+.comment-btn {
   background-color: #4e4e4e;
   color: #a5a5a5;
   padding: 3px 4px;
@@ -308,16 +308,16 @@ nav {
   font-size: 0.6rem;
 }
 
-
 /* Sidebar styles */
-.sidebar{
+.sidebar {
   padding: 20px 5px;
 }
 
-.video-card{
+.video-card {
   display: flex;
 }
 
-.video-card p{
+.video-card p,
+.video-card a {
   font-size: 0.5rem;
 }
